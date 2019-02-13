@@ -1,2 +1,2 @@
-# mongo-mongoose
-Freecodecamp's Mongo and Mongoose Lesson
+FCC Mongo & Mongoose Challenges
+===============================
